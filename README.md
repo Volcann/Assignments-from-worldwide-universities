@@ -1,4 +1,4 @@
-# 🎓 Console-Assignments-from-worldwide-universities 🌍
+# Console-Assignments-from-worldwide-universities 🌍
 
 Welcome to the **"Console Assignments from Worldwide Universities"** repository! This collection features an extensive range of practical assignments sourced from universities around the globe. Curated from freelancing platforms like Upwork and Fiverr, these assignments cover a broad spectrum of computer science topics and serve as exemplary academic projects, demonstrating high standards of academic integrity and programming proficiency.
 
