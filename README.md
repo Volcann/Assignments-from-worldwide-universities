@@ -34,7 +34,4 @@ If you’re seeking expert help with your assignments in Data Structures, Pseudo
 3. **Practice and Learn:** Try to solve the assignments on your own before referring to the provided solutions. This will help you reinforce your learning and improve your problem-solving skills.
 4. **Ask for Help:** If you get stuck or need clarification on any topic, don’t hesitate to reach out for assistance.
 
-### Contributing:
-If you have high-quality assignments that you would like to share, contributions are welcome! Please follow the contribution guidelines to submit your work.
-
 By leveraging this repository, you can enhance your learning experience, improve your coding skills, and gain a deeper understanding of key computer science concepts. Happy coding!
